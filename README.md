@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @safol123
 - 👀 I care about ...building products that make people's lives simpler so they can focus on what matters to them
-- 🌱 I’m currently learning ...Python, advanced data analytics, and Data Science
+- 🌱 I’m currently learning ...Python, advanced data analytics, and data science
 - 💞️ I’m looking to collaborate on ...ideas around travel, film, art, and Korean dramas
 - 📫 How to reach me ...on LinkedIn - see social media url below
 
